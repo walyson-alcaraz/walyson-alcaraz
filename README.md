@@ -63,7 +63,7 @@ Me chamo Walyson Alcaraz, tenho 29 anos e sou de Ourinhos-SP. Sou formado em Seg
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=rp-bueno&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=walyson-alcaraz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
