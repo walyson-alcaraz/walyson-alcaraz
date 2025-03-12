@@ -6,7 +6,7 @@ Me chamo Walyson Alcaraz, tenho 29 anos e sou de Ourinhos-SP. Sou formado em Seg
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
